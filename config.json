@@ -1,4 +1,5 @@
 {
   "location": "./example",
-  "port": 8080
+  "port": 8080,
+  "filename": "index.html"
 }

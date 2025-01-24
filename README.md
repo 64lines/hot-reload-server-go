@@ -13,6 +13,9 @@ Under `config.json` you can find the configuration of the Hot Reloader Server.
 go run .
 ```
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e754b5bc-2bdc-49c3-8ace-a5d43ab443b5" />
+
+
 ## Compile
 
 If you want to compile the project to obtain a binary of it you can do so running the following commands:
